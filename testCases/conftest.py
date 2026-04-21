@@ -47,22 +47,22 @@
 # def pytest_metadata(metadata):
 #     metadata.pop("JAVA_HOME", None)
 #     metadata.pop("Plugins", None)
-
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 import pytest
 
 
-# ------------------ FIXTURE ------------------
 @pytest.fixture()
 def setup(browser):
 
     if browser == "chrome":
         options = Options()
-        options.binary_location = "/usr/bin/chromium-browser"
 
-        # ✅ MUST for Jenkins (headless Linux)
+        # ✅ safer: don't force binary unless needed
+        # options.binary_location = "/usr/bin/chromium"
+
+        # Jenkins headless config
         options.add_argument("--headless=new")
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
@@ -72,6 +72,7 @@ def setup(browser):
         service = Service("/usr/bin/chromedriver")
 
         driver = webdriver.Chrome(service=service, options=options)
+
         print("Launching Chrome browser")
 
     elif browser == "edge":
@@ -81,12 +82,10 @@ def setup(browser):
     else:
         raise Exception("Browser not supported")
 
-    yield driver   # ✅ IMPORTANT (instead of return)
+    yield driver
+    driver.quit()
 
-    driver.quit()  # ✅ close browser properly
 
-
-# ------------------ BROWSER OPTION ------------------
 def pytest_addoption(parser):
     parser.addoption("--browser", action="store", default="chrome")
 
@@ -96,7 +95,8 @@ def browser(request):
     return request.config.getoption("--browser")
 
 
-# ------------------ HTML REPORT ------------------
+# ------ pytest html report ----------
+
 def pytest_configure(config):
     if hasattr(config, "_metadata"):
         config._metadata['Project Name'] = 'Orange HRM'
@@ -105,6 +105,5 @@ def pytest_configure(config):
 
 
 def pytest_metadata(metadata):
-    # ✅ Safe removal
     metadata.pop("JAVA_HOME", None)
     metadata.pop("Plugins", None)

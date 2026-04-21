@@ -1,19 +1,77 @@
+# from selenium import webdriver
+# from selenium.webdriver.chrome.service import Service
+# from selenium.webdriver.chrome.options import Options
+# import pytest
+#
+#
+# @pytest.fixture()
+# def setup(browser):
+#
+#     if browser == "chrome":
+#         options = Options()
+#         options.binary_location = "/usr/bin/chromium-browser"   # ✅ CORRECT PATH
+#
+#         service = Service("/usr/bin/chromedriver")   # ✅ after install
+#         driver = webdriver.Chrome(service=service, options=options)
+#
+#         print("Launching Chrome browser")
+#
+#     elif browser == "edge":
+#         driver = webdriver.Edge()
+#         print("Launching Edge browser")
+#
+#     else:
+#         raise Exception("Browser not supported")
+#
+#     return driver
+#
+#
+# def pytest_addoption(parser):
+#     parser.addoption("--browser", action="store", default="chrome")
+#
+#
+# @pytest.fixture()
+# def browser(request):
+#     return request.config.getoption("--browser")
+#
+#
+# # ------ pytest html report ----------
+#
+# def pytest_configure(config):
+#     if hasattr(config, "_metadata"):
+#         config._metadata['Project Name'] = 'Orange HRM'
+#         config._metadata['Module Name'] = 'Login Page'
+#         config._metadata['Tester Name'] = 'Keerthana'
+#
+#
+# def pytest_metadata(metadata):
+#     metadata.pop("JAVA_HOME", None)
+#     metadata.pop("Plugins", None)
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 import pytest
 
 
+# ------------------ FIXTURE ------------------
 @pytest.fixture()
 def setup(browser):
 
     if browser == "chrome":
         options = Options()
-        options.binary_location = "/usr/bin/chromium-browser"   # ✅ CORRECT PATH
+        options.binary_location = "/usr/bin/chromium-browser"
 
-        service = Service("/usr/bin/chromedriver")   # ✅ after install
+        # ✅ MUST for Jenkins (headless Linux)
+        options.add_argument("--headless=new")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--window-size=1920,1080")
+
+        service = Service("/usr/bin/chromedriver")
+
         driver = webdriver.Chrome(service=service, options=options)
-
         print("Launching Chrome browser")
 
     elif browser == "edge":
@@ -23,9 +81,12 @@ def setup(browser):
     else:
         raise Exception("Browser not supported")
 
-    return driver
+    yield driver   # ✅ IMPORTANT (instead of return)
+
+    driver.quit()  # ✅ close browser properly
 
 
+# ------------------ BROWSER OPTION ------------------
 def pytest_addoption(parser):
     parser.addoption("--browser", action="store", default="chrome")
 
@@ -35,8 +96,7 @@ def browser(request):
     return request.config.getoption("--browser")
 
 
-# ------ pytest html report ----------
-
+# ------------------ HTML REPORT ------------------
 def pytest_configure(config):
     if hasattr(config, "_metadata"):
         config._metadata['Project Name'] = 'Orange HRM'
@@ -45,5 +105,6 @@ def pytest_configure(config):
 
 
 def pytest_metadata(metadata):
+    # ✅ Safe removal
     metadata.pop("JAVA_HOME", None)
     metadata.pop("Plugins", None)

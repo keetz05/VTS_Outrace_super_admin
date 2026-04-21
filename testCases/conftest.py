@@ -59,10 +59,10 @@ def setup(browser):
     if browser == "chrome":
         options = Options()
 
-        # ✅ safer: don't force binary unless needed
-        # options.binary_location = "/usr/bin/chromium"
+        # No need binary_location if installed via apt
+        # options.binary_location = "/usr/bin/chromium-browser"
 
-        # Jenkins headless config
+        # ✅ Jenkins headless config
         options.add_argument("--headless=new")
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
@@ -74,10 +74,6 @@ def setup(browser):
         driver = webdriver.Chrome(service=service, options=options)
 
         print("Launching Chrome browser")
-
-    elif browser == "edge":
-        driver = webdriver.Edge()
-        print("Launching Edge browser")
 
     else:
         raise Exception("Browser not supported")
@@ -93,17 +89,3 @@ def pytest_addoption(parser):
 @pytest.fixture()
 def browser(request):
     return request.config.getoption("--browser")
-
-
-# ------ pytest html report ----------
-
-def pytest_configure(config):
-    if hasattr(config, "_metadata"):
-        config._metadata['Project Name'] = 'Orange HRM'
-        config._metadata['Module Name'] = 'Login Page'
-        config._metadata['Tester Name'] = 'Keerthana'
-
-
-def pytest_metadata(metadata):
-    metadata.pop("JAVA_HOME", None)
-    metadata.pop("Plugins", None)

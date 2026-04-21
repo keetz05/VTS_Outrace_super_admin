@@ -1,0 +1,776 @@
+04/16/2026 12:31:18 PM: INFO: ************* login tilte same or not **************
+04/16/2026 12:32:14 PM: INFO: ************* login tilte same or not **************
+04/16/2026 12:38:54 PM: INFO: ************* login tilte same or not **************
+04/16/2026 12:42:28 PM: INFO: ************* login tilte same or not **************
+04/16/2026 12:43:34 PM: INFO: ************* login tilte same or not **************
+04/16/2026 12:43:38 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 12:43:38 PM: INFO: ************* login page 1 st testcase passed  **************
+04/16/2026 12:44:26 PM: INFO: ************* login tilte same or not **************
+04/16/2026 12:44:33 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 12:44:33 PM: INFO: ************* login page 1 st testcase passed  **************
+04/16/2026 12:53:20 PM: INFO: ************* login tilte same or not **************
+04/16/2026 12:53:31 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 12:53:31 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 12:53:33 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 12:53:41 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 12:53:41 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 12:54:00 PM: INFO: ************* login tilte same or not **************
+04/16/2026 12:54:09 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 12:54:09 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 12:54:12 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 12:54:18 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 12:54:18 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 04:13:22 PM: INFO: ************* login tilte same or not **************
+04/16/2026 04:13:30 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 04:13:30 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 04:13:40 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 04:13:55 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 04:13:55 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 04:14:15 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 04:14:20 PM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/16/2026 04:14:20 PM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/16/2026 04:30:18 PM: INFO: ************* login tilte same or not **************
+04/16/2026 04:30:25 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 04:30:25 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 04:30:30 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 04:30:36 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 04:30:36 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 04:30:44 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 04:31:38 PM: INFO: ************* login tilte same or not **************
+04/16/2026 04:31:50 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 04:31:50 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 04:31:58 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 04:32:15 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 04:32:15 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 04:32:25 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 04:34:27 PM: INFO: ************* login tilte same or not **************
+04/16/2026 04:35:05 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 04:35:05 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 04:35:35 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 04:56:48 PM: INFO: ************* login tilte same or not **************
+04/16/2026 04:56:56 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 04:56:56 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 04:56:58 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 04:57:04 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 04:57:04 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 04:57:07 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 04:58:17 PM: INFO: ************* login tilte same or not **************
+04/16/2026 04:58:32 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 04:58:32 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 04:58:35 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 04:59:16 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 04:59:29 PM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/16/2026 04:59:29 PM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/16/2026 05:00:21 PM: INFO: ************* login tilte same or not **************
+04/16/2026 05:00:38 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 05:00:38 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 05:00:41 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 05:00:52 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 05:00:52 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 05:00:59 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 05:01:06 PM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/16/2026 05:01:06 PM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/16/2026 05:02:01 PM: INFO: ************* login tilte same or not **************
+04/16/2026 05:02:10 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 05:02:10 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 05:02:12 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 05:02:19 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 05:02:19 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 05:02:26 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 05:02:30 PM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/16/2026 05:02:30 PM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/16/2026 05:04:59 PM: INFO: ************* login tilte same or not **************
+04/16/2026 05:05:11 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 05:05:11 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 05:05:13 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 05:05:29 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 05:05:29 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 05:05:46 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 05:05:52 PM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/16/2026 05:05:52 PM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/16/2026 05:06:03 PM: INFO: ************* invalid password id and valid password **************
+04/16/2026 05:07:22 PM: INFO: ************* login tilte same or not **************
+04/16/2026 05:07:48 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 05:07:48 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 05:07:50 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 05:07:59 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 05:07:59 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 05:08:20 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 05:09:31 PM: INFO: ************* invalid password id and valid password **************
+04/16/2026 05:09:38 PM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/16/2026 05:09:38 PM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/16/2026 05:09:51 PM: INFO: ************* login tilte same or not **************
+04/16/2026 05:10:00 PM: INFO: ************* login page title is same , testcase passed  **************
+04/16/2026 05:10:00 PM: INFO: ************* login testcase 1 is passed  **************
+04/16/2026 05:10:02 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/16/2026 05:10:12 PM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/16/2026 05:10:12 PM: INFO: ************* login testcase 2 is passed  **************
+04/16/2026 05:10:19 PM: INFO: ************* invalid email id and valid password **************
+04/16/2026 05:10:25 PM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/16/2026 05:10:25 PM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/16/2026 05:10:34 PM: INFO: ************* invalid password id and valid password **************
+04/16/2026 05:10:44 PM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/16/2026 05:10:44 PM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 10:13:24 AM: INFO: ************* login tilte same or not **************
+04/17/2026 10:13:49 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 10:13:49 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 10:13:51 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 10:14:18 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 10:14:18 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 10:14:43 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 10:15:28 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 10:15:53 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 10:17:19 AM: INFO: ************* login tilte same or not **************
+04/17/2026 10:18:03 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 10:18:03 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 10:18:05 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 10:19:57 AM: INFO: ************* login tilte same or not **************
+04/17/2026 10:20:14 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 10:20:14 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 10:20:16 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 10:21:04 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 10:21:34 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 10:22:50 AM: INFO: ************* login tilte same or not **************
+04/17/2026 10:23:02 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 10:23:02 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 10:23:04 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 10:23:21 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 10:23:21 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 10:23:40 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 10:23:58 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 10:24:01 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 10:24:01 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 10:24:08 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 10:27:15 AM: INFO: ************* login tilte same or not **************
+04/17/2026 10:27:25 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 10:27:25 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 10:27:30 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 10:27:55 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 10:27:55 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 10:28:12 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 10:28:19 AM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/17/2026 10:28:19 AM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/17/2026 10:28:30 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 10:28:36 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 10:28:36 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 10:28:44 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 10:29:46 AM: INFO: ************* login tilte same or not **************
+04/17/2026 10:29:54 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 10:29:54 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 10:29:56 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 10:30:06 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 10:30:06 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 10:30:18 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 10:30:21 AM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/17/2026 10:30:21 AM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/17/2026 10:30:33 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 10:30:37 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 10:30:37 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 10:30:46 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 10:32:23 AM: INFO: ************* login tilte same or not **************
+04/17/2026 10:32:32 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 10:32:32 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 10:32:34 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 10:32:43 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 10:32:43 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 10:32:52 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 10:32:55 AM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/17/2026 10:32:55 AM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/17/2026 10:33:06 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 10:33:09 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 10:33:09 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 10:33:23 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 10:33:29 AM: INFO: ************* invalid email id and invalid passowrd testcase passed**************
+04/17/2026 10:33:29 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 10:39:30 AM: INFO: ************* login tilte same or not **************
+04/17/2026 10:39:41 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 10:39:41 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 10:39:43 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 10:40:09 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 10:40:09 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 10:40:21 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 10:40:27 AM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/17/2026 10:40:27 AM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/17/2026 10:40:37 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 10:40:40 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 10:40:40 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 10:40:50 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 10:40:59 AM: INFO: ************* invalid email id and invalid passowrd testcase passed**************
+04/17/2026 10:40:59 AM: INFO: *********** login testcase valid email , and invalid password 5 testcase passed ************
+04/17/2026 10:41:01 AM: INFO: ************* valid inputs to capure dashboard title **************
+04/17/2026 10:41:08 AM: INFO: ************* valid input to capture dashboard title , testcase passed  **************
+04/17/2026 10:41:08 AM: INFO: ************* login testcase 6 is passed  **************
+04/17/2026 10:49:35 AM: INFO: ************* login tilte same or not **************
+04/17/2026 10:49:47 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 10:49:47 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 10:49:50 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 10:49:59 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 10:49:59 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 10:50:05 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 10:50:08 AM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/17/2026 10:50:08 AM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/17/2026 10:50:14 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 10:50:17 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 10:50:17 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 10:50:23 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 10:50:28 AM: INFO: ************* invalid email id and invalid passowrd testcase passed**************
+04/17/2026 10:50:28 AM: INFO: *********** login testcase valid email , and invalid password 5 testcase passed ************
+04/17/2026 10:50:31 AM: INFO: ************* valid inputs to capure dashboard title **************
+04/17/2026 10:50:38 AM: INFO: ************* valid input to capture dashboard title , testcase passed  **************
+04/17/2026 10:50:38 AM: INFO: ************* login testcase 6 is passed  **************
+04/17/2026 10:50:40 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 10:50:56 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 10:50:56 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:11:17 AM: INFO: ************* login tilte same or not **************
+04/17/2026 11:11:39 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 11:11:39 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 11:11:41 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 11:12:08 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 11:12:08 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 11:12:18 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 11:12:54 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 11:14:04 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 11:14:10 AM: INFO: ************* invalid email id and invalid passowrd testcase passed**************
+04/17/2026 11:14:10 AM: INFO: *********** login testcase valid email , and invalid password 5 testcase passed ************
+04/17/2026 11:14:13 AM: INFO: ************* valid inputs to capure dashboard title **************
+04/17/2026 11:14:20 AM: INFO: ************* valid input to capture dashboard title , testcase passed  **************
+04/17/2026 11:14:20 AM: INFO: ************* login testcase 6 is passed  **************
+04/17/2026 11:14:23 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:14:39 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:14:39 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:14:41 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:14:57 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:14:57 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:16:51 AM: INFO: ************* login tilte same or not **************
+04/17/2026 11:17:03 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 11:17:03 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 11:17:05 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 11:17:19 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 11:17:19 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 11:17:29 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 11:17:34 AM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/17/2026 11:17:34 AM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/17/2026 11:17:43 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 11:17:46 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 11:17:46 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 11:17:55 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 11:18:01 AM: INFO: ************* invalid email id and invalid passowrd testcase passed**************
+04/17/2026 11:18:01 AM: INFO: *********** login testcase valid email , and invalid password 5 testcase passed ************
+04/17/2026 11:18:03 AM: INFO: ************* valid inputs to capure dashboard title **************
+04/17/2026 11:18:28 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:18:49 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:18:49 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:18:51 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:19:09 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:19:09 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:26:09 AM: INFO: ************* login tilte same or not **************
+04/17/2026 11:26:18 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 11:26:18 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 11:26:21 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 11:26:35 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 11:26:35 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 11:26:52 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 11:26:55 AM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/17/2026 11:26:55 AM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/17/2026 11:27:10 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 11:27:14 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 11:27:14 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 11:27:21 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 11:27:30 AM: INFO: ************* invalid email id and invalid passowrd testcase passed**************
+04/17/2026 11:27:30 AM: INFO: *********** login testcase valid email , and invalid password 5 testcase passed ************
+04/17/2026 11:27:32 AM: INFO: ************* valid inputs to capure dashboard title **************
+04/17/2026 11:27:40 AM: INFO: ************* valid input to capture dashboard title , testcase passed  **************
+04/17/2026 11:27:40 AM: INFO: ************* login testcase 6 is passed  **************
+04/17/2026 11:27:43 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:27:58 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:27:58 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:28:00 AM: INFO: ************* valid inputs and before logout keep session **************
+04/17/2026 11:28:16 AM: INFO: ************* valid input to login before logout keep session  , testcase passed  **************
+04/17/2026 11:28:16 AM: INFO: ************* login testcase 8 is passed  **************
+04/17/2026 11:28:19 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:28:37 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:28:37 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:29:40 AM: INFO: ************* login tilte same or not **************
+04/17/2026 11:29:51 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 11:29:51 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 11:29:53 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 11:30:05 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 11:30:05 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 11:30:14 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 11:30:22 AM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/17/2026 11:30:22 AM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/17/2026 11:30:36 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 11:30:40 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 11:30:40 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 11:30:55 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 11:31:03 AM: INFO: ************* invalid email id and invalid passowrd testcase passed**************
+04/17/2026 11:31:03 AM: INFO: *********** login testcase valid email , and invalid password 5 testcase passed ************
+04/17/2026 11:31:05 AM: INFO: ************* valid inputs to capure dashboard title **************
+04/17/2026 11:31:19 AM: INFO: ************* valid input to capture dashboard title , testcase passed  **************
+04/17/2026 11:31:19 AM: INFO: ************* login testcase 6 is passed  **************
+04/17/2026 11:31:21 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:31:40 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:31:40 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:31:42 AM: INFO: ************* valid inputs and before logout keep session **************
+04/17/2026 11:32:01 AM: INFO: ************* valid input to login before logout keep session  , testcase passed  **************
+04/17/2026 11:32:01 AM: INFO: ************* login testcase 8 is passed  **************
+04/17/2026 11:32:03 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:32:25 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:32:25 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:35:30 AM: INFO: ************* login tilte same or not **************
+04/17/2026 11:35:37 AM: INFO: ************* login page title is same , testcase passed  **************
+04/17/2026 11:35:37 AM: INFO: ************* login testcase 1 is passed  **************
+04/17/2026 11:35:40 AM: INFO: ************* invalid inputs login successufull or not check  **************
+04/17/2026 11:35:49 AM: INFO: ************* valid input to  login successful , testcase passed  **************
+04/17/2026 11:35:49 AM: INFO: ************* login testcase 2 is passed  **************
+04/17/2026 11:35:58 AM: INFO: ************* invalid email id and valid password **************
+04/17/2026 11:36:02 AM: INFO: ************* invalid email id and valid passowrd testcase passed**************
+04/17/2026 11:36:02 AM: INFO: *********** login testcase invalid email , and valid password 3 testcase passed ************
+04/17/2026 11:36:13 AM: INFO: ************* invalid password id and valid password **************
+04/17/2026 11:36:16 AM: INFO: ************* valid email id and invalid passowrd testcase passed**************
+04/17/2026 11:36:16 AM: INFO: *********** login testcase valid email , and invalid password 4 testcase passed ************
+04/17/2026 11:36:26 AM: INFO: ************* invalid login and invalid password **************
+04/17/2026 11:36:31 AM: INFO: ************* invalid email id and invalid passowrd testcase passed**************
+04/17/2026 11:36:31 AM: INFO: *********** login testcase valid email , and invalid password 5 testcase passed ************
+04/17/2026 11:36:33 AM: INFO: ************* valid inputs to capure dashboard title **************
+04/17/2026 11:36:43 AM: INFO: ************* valid input to capture dashboard title , testcase passed  **************
+04/17/2026 11:36:43 AM: INFO: ************* login testcase 6 is passed  **************
+04/17/2026 11:36:45 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:37:06 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:37:06 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:37:08 AM: INFO: ************* valid inputs and before logout keep session **************
+04/17/2026 11:37:22 AM: INFO: ************* valid input to login before logout keep session  , testcase passed  **************
+04/17/2026 11:37:22 AM: INFO: ************* login testcase 8 is passed  **************
+04/17/2026 11:37:24 AM: INFO: ************* valid inputs and logout **************
+04/17/2026 11:37:52 AM: INFO: ************* valid input to login and logout  , testcase passed  **************
+04/17/2026 11:37:52 AM: INFO: ************* login testcase 7 is passed  **************
+04/17/2026 11:37:54 AM: INFO: ************* valid inputs and before logout keep session **************
+04/17/2026 11:38:11 AM: INFO: ************* valid input to login before logout keep session  , testcase passed  **************
+04/17/2026 11:38:11 AM: INFO: ************* login testcase 8 is passed  **************
+04/17/2026 03:26:11 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/17/2026 03:27:48 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/17/2026 03:29:38 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/17/2026 03:31:16 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/17/2026 03:32:54 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/17/2026 03:43:02 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:12:38 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:21:39 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:24:10 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:27:31 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:28:54 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:31:38 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:32:24 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:32:34 AM: INFO: ***************************manage device -> new device created successfully ***************************
+04/18/2026 10:32:34 AM: INFO: ************************** manage device 1 st testcase passed ************************************
+04/18/2026 10:38:04 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:38:52 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:41:50 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:51:35 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:53:07 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:56:50 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:57:07 AM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 10:57:07 AM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 10:57:34 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 10:57:54 AM: INFO: ***************************manage device -> new device created successfully ***************************
+04/18/2026 10:57:54 AM: INFO: ************************** manage device 1 st testcase passed ************************************
+04/18/2026 11:34:17 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 11:41:52 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 11:43:05 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 11:51:12 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 11:51:45 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 11:53:18 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 11:54:00 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 11:56:29 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 11:58:01 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 12:02:08 PM: INFO: ************* login tilte same or not **************
+04/18/2026 12:03:36 PM: INFO: ************* invalid inputs login successufull or not check  **************
+04/18/2026 12:03:48 PM: INFO: ************* valid inputs to capure dashboard title **************
+04/18/2026 12:03:52 PM: INFO: ************* valid inputs and logout **************
+04/18/2026 12:04:07 PM: INFO: ************* valid inputs and before logout keep session **************
+04/18/2026 12:04:09 PM: INFO: ************* valid inputs and logout **************
+04/18/2026 12:04:20 PM: INFO: ************* valid inputs and before logout keep session **************
+04/18/2026 12:05:34 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 12:13:52 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 01:07:00 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 01:07:18 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 01:07:54 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 02:20:33 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 02:20:42 PM: INFO: ***************************manage device -> new device created successfully ***************************
+04/18/2026 02:20:42 PM: INFO: ************************** manage device 1 st testcase passed ************************************
+04/18/2026 02:20:45 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 02:20:55 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 02:20:55 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:07:32 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:07:46 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:07:46 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:07:51 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:08:02 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:08:02 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:08:10 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:10:56 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:11:09 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:11:09 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:11:13 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:11:26 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:11:26 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:11:31 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:12:16 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:12:29 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:12:29 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:12:33 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:12:45 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:12:45 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:12:52 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:14:05 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:14:15 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:14:15 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:14:20 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:14:30 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:14:30 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:14:35 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:15:57 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:16:06 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:16:06 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:16:11 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:16:21 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:16:21 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:16:25 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:17:10 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:17:19 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:17:19 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:17:23 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:17:34 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:17:34 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:17:37 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:18:18 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:18:28 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:18:28 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:18:32 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:18:42 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:18:42 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:18:46 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:19:38 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:19:48 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:19:48 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:19:54 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:20:04 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:20:04 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:20:07 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:39:26 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:39:38 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:39:38 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:39:44 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:39:55 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:39:55 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:40:00 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:40:10 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:40:10 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:41:10 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:41:27 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:41:27 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:41:31 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:41:45 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:41:45 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:41:49 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:42:38 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:42:43 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:42:56 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:51:42 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:51:51 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:51:51 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:52:00 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:52:11 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:52:11 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:52:15 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:52:41 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:52:53 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:52:53 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:52:58 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:53:08 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:53:08 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:53:14 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:53:53 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:54:04 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:54:04 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:54:14 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:54:26 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:54:26 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:54:33 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:55:11 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:55:23 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:55:23 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:55:28 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:55:38 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:55:38 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:55:43 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:58:51 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:59:03 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:59:03 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:59:08 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 03:59:22 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 03:59:22 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 03:59:27 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:00:13 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:00:22 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:00:22 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:00:26 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:00:36 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:00:36 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:00:41 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:18:12 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:18:22 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:18:30 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:19:18 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:19:32 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:19:32 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:19:40 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:19:51 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:19:51 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:19:55 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:32:12 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:32:23 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:32:23 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:32:27 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:32:40 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:32:40 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:32:44 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:36:23 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:36:43 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:36:43 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:36:47 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:36:58 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:36:58 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:37:05 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:44:06 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:44:25 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:44:36 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:44:36 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:44:43 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:45:29 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:45:41 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:45:41 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:45:51 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:46:08 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:46:08 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:46:16 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:47:02 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:47:26 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:47:26 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:47:32 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:47:45 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:47:45 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:47:50 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:52:23 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:52:35 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:52:35 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:53:16 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:53:49 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:54:15 PM: INFO: ***************************manage device -> new device created successfully ***************************
+04/18/2026 04:54:15 PM: INFO: ************************** manage device 1 st testcase passed ************************************
+04/18/2026 04:55:13 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:55:26 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:55:26 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:55:36 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 04:56:03 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 04:56:03 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 04:56:08 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:02:50 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:03:07 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 05:03:07 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 05:03:12 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:03:22 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 05:03:22 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 05:03:35 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:05:04 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:05:43 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:06:17 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:06:40 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 05:06:40 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 05:06:53 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:07:20 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:07:58 PM: INFO: ***************************manage device -> new device created successfully ***************************
+04/18/2026 05:07:58 PM: INFO: ************************** manage device 1 st testcase passed ************************************
+04/18/2026 05:18:09 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:18:34 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/18/2026 05:18:54 PM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/18/2026 05:18:54 PM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/18/2026 05:19:09 PM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:10:44 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:11:10 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:11:21 AM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/20/2026 10:11:21 AM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/20/2026 10:11:25 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:11:36 AM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/20/2026 10:11:36 AM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/20/2026 10:11:41 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:12:15 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:12:27 AM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/20/2026 10:12:27 AM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/20/2026 10:12:36 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:12:51 AM: INFO: ********************* EXITS IMEI number error message cheking ***********************
+04/20/2026 10:12:51 AM: INFO: **************************** manage device exits error show testcase 1 passed *********************
+04/20/2026 10:12:59 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:13:22 AM: INFO: ***************************manage device -> new device created successfully ***************************
+04/20/2026 10:13:22 AM: INFO: ************************** manage device 1 st testcase passed ************************************
+04/20/2026 10:57:59 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:58:10 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 10:58:15 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 11:00:40 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 11:05:24 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 11:16:04 AM: INFO: **************************** manage device -> create device valid inputs or not ? ******************************
+04/20/2026 11:16:17 AM: INFO: ***************************manage device -> new device created successfully ***************************
+04/20/2026 11:16:17 AM: INFO: ************************** manage device 1 st testcase passed ************************************
+04/20/2026 11:33:42 AM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 11:33:44 AM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-535
+04/20/2026 11:33:51 AM: INFO: System message: Device with this IMEI already exists
+04/20/2026 11:33:59 AM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 11:34:02 AM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-629
+04/20/2026 11:34:30 AM: INFO: ***** TEST: Manage Device Edit *****
+04/20/2026 11:34:39 AM: INFO: Create message: Device registered successfully!
+04/20/2026 11:34:41 AM: INFO: ✅ Edit validation completed
+04/20/2026 11:34:52 AM: INFO: ***** TEST: Manage Device View *****
+04/20/2026 11:34:59 AM: INFO: Create message: Device registered successfully!
+04/20/2026 11:35:01 AM: INFO: ✅ View validation completed
+04/20/2026 11:38:20 AM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 11:38:21 AM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-317
+04/20/2026 11:38:27 AM: INFO: System message: Device with this IMEI already exists
+04/20/2026 11:38:34 AM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 11:38:36 AM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-753
+04/20/2026 11:38:44 AM: INFO: System message: Device with this IMEI already exists
+04/20/2026 11:38:52 AM: INFO: ***** TEST: Manage Device Edit *****
+04/20/2026 11:39:00 AM: INFO: Create message: Device registered successfully!
+04/20/2026 11:39:02 AM: INFO: ✅ Edit validation completed
+04/20/2026 11:39:10 AM: INFO: ***** TEST: Manage Device View *****
+04/20/2026 11:39:23 AM: INFO: Create message: Device registered successfully!
+04/20/2026 11:39:24 AM: INFO: ✅ View validation completed
+04/20/2026 12:36:00 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 12:36:03 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-667
+04/20/2026 12:36:08 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 12:36:12 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 12:36:16 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-757
+04/20/2026 12:36:21 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 12:36:25 PM: INFO: ***** TEST: Manage Device Edit *****
+04/20/2026 12:36:34 PM: INFO: Create message: ('Device registered successfully!', 'SIM800L v2')
+04/20/2026 12:36:39 PM: INFO: ***** TEST: Manage Device View *****
+04/20/2026 12:36:49 PM: INFO: Create message: Device registered successfully!
+04/20/2026 12:36:51 PM: INFO: ✅ View validation completed
+04/20/2026 12:39:30 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 12:39:44 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 12:39:45 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-136
+04/20/2026 12:39:49 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 12:39:53 PM: INFO: ***** TEST: Manage Device Edit *****
+04/20/2026 12:40:00 PM: INFO: Create message: ('Device registered successfully!', 'SIM800L v2')
+04/20/2026 12:40:04 PM: INFO: ***** TEST: Manage Device View *****
+04/20/2026 12:40:11 PM: INFO: Create message: Device registered successfully!
+04/20/2026 12:40:12 PM: INFO: ✅ View validation completed
+04/20/2026 12:51:27 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 12:51:33 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-943
+04/20/2026 12:51:40 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 12:51:46 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 12:51:49 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-779
+04/20/2026 12:52:16 PM: INFO: ***** TEST: Manage Device Edit *****
+04/20/2026 12:57:51 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 12:57:55 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-681
+04/20/2026 12:57:59 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 12:58:05 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 12:58:06 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-397
+04/20/2026 12:58:11 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 12:58:16 PM: INFO: ***** TEST: Manage Device Edit *****
+04/20/2026 12:58:23 PM: INFO: Create message: Device registered successfully!
+04/20/2026 12:58:25 PM: INFO: ✅ Edit validation completed
+04/20/2026 12:58:31 PM: INFO: ***** TEST: Manage Device View *****
+04/20/2026 12:58:38 PM: INFO: Create message: Device registered successfully!
+04/20/2026 12:58:40 PM: INFO: ✅ View validation completed
+04/20/2026 05:48:41 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 05:48:43 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-149
+04/20/2026 05:48:49 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 05:49:03 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 05:49:09 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-132
+04/20/2026 05:49:15 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 05:49:44 PM: INFO: ***** TEST: Manage Device Edit *****
+04/20/2026 05:51:08 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 05:51:14 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-685
+04/20/2026 05:51:21 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 05:51:41 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 05:51:45 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-314
+04/20/2026 05:51:55 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 05:52:05 PM: INFO: ***** TEST: Manage Device Edit *****
+04/20/2026 05:52:15 PM: INFO: Create message: Device registered successfully!
+04/20/2026 05:52:16 PM: INFO: ✅ Edit validation completed
+04/20/2026 05:52:22 PM: INFO: ***** TEST: Manage Device View *****
+04/20/2026 05:52:37 PM: INFO: Create message: Device registered successfully!
+04/20/2026 05:52:38 PM: INFO: ✅ View validation completed
+04/20/2026 05:52:57 PM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/20/2026 05:53:06 PM: INFO: Create message: Device registered successfully!
+04/20/2026 05:56:51 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 05:56:55 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-116
+04/20/2026 05:57:01 PM: INFO: System message: Device with this IMEI already exists
+04/20/2026 05:57:27 PM: INFO: ***** TEST: Manage Device Create *****
+04/20/2026 05:57:38 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-215
+04/21/2026 10:18:37 AM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 10:18:40 AM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-903
+04/21/2026 10:18:47 AM: INFO: System message: Device with this IMEI already exists
+04/21/2026 10:18:52 AM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 10:18:54 AM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-361
+04/21/2026 10:19:02 AM: INFO: System message: Device with this IMEI already exists
+04/21/2026 10:19:15 AM: INFO: ***** TEST: Manage Device Edit *****
+04/21/2026 10:19:26 AM: INFO: Create message: Device registered successfully!
+04/21/2026 10:19:34 AM: INFO: ***** TEST: Manage Device View *****
+04/21/2026 10:19:51 AM: INFO: Create message: Device registered successfully!
+04/21/2026 10:19:53 AM: INFO: ✅ View validation completed
+04/21/2026 10:19:59 AM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/21/2026 10:20:19 AM: INFO: Create message: Device registered successfully!
+04/21/2026 10:28:03 AM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 10:28:07 AM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-641
+04/21/2026 10:28:18 AM: INFO: System message: Device with this IMEI already exists
+04/21/2026 10:28:32 AM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 10:28:36 AM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-830
+04/21/2026 10:28:50 AM: INFO: System message: Device with this IMEI already exists
+04/21/2026 10:30:15 AM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/21/2026 10:35:41 AM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/21/2026 10:38:14 AM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/21/2026 12:09:38 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 12:19:46 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 12:24:08 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 12:29:24 PM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 12:29:25 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-669
+04/21/2026 12:29:40 PM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 12:29:42 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-557
+04/21/2026 12:29:45 PM: INFO: ***** TEST: Manage Device Edit *****
+04/21/2026 12:30:00 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 12:32:13 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 12:35:16 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 12:37:44 PM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 12:38:57 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 12:45:38 PM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 12:45:39 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-649
+04/21/2026 12:45:54 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 12:53:30 PM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 12:53:37 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-753
+04/21/2026 12:53:45 PM: INFO: System message: Device with this IMEI already exists
+04/21/2026 12:53:49 PM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 12:53:50 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-284
+04/21/2026 12:53:54 PM: INFO: ***** TEST: Manage Device Edit *****
+04/21/2026 12:54:01 PM: INFO: ***** TEST: Manage Device View *****
+04/21/2026 12:54:08 PM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/21/2026 12:54:15 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 12:55:39 PM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 12:55:41 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-504
+04/21/2026 12:55:54 PM: INFO: ***** TEST: Manage Device Edit *****
+04/21/2026 12:56:03 PM: INFO: Create message: Device registered successfully!
+04/21/2026 12:56:05 PM: INFO: ✅ Edit validation completed
+04/21/2026 12:56:08 PM: INFO: ***** TEST: Manage Device View *****
+04/21/2026 12:56:15 PM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/21/2026 12:56:27 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 01:01:11 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 01:02:23 PM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 01:02:25 PM: INFO: Creating device IMEI: 111111111111111, Tracker: THY-103
+04/21/2026 01:02:32 PM: INFO: System message: Device with this IMEI already exists
+04/21/2026 01:03:20 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 02:20:47 PM: INFO: ***** TEST: Manage Device Create *****
+04/21/2026 02:21:10 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 02:23:49 PM: INFO: ***** TEST: Manage device capture all table data  *****
+04/21/2026 02:42:36 PM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/21/2026 02:44:57 PM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/21/2026 02:52:30 PM: INFO: ***** TEST: Device View → Update → Re-Verify *****
+04/21/2026 02:58:16 PM: INFO: ***** TEST: Device View → Update → Re-Verify *****
